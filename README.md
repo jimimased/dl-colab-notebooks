@@ -126,7 +126,7 @@ Try out deep learning models online on Colab with a single click.
 * A Google Colab notebook set up for both conventional and machine learning-based video processing. This repo combines VapourSynth and ESRGAN and is located in [AlphaAtlas/VapourSynthColab](https://github.com/AlphaAtlas/VapourSynthColab). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlphaAtlas/VapourSynthColab/blob/master/VapourSynthColab.ipynb)
 * Generates a talking face video from an image and an audio using [Rudrabha/LipGAN](https://github.com/Rudrabha/LipGAN).
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/LipGAN.ipynb)
-  * deoldify a video [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
+* Deoldify a video. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
 
 ## Misc
 * Using Mask-RCNN and ESRGAN to detect barsand mosaic and depixelate content with [natethegreate/hent-AI](https://github.com/natethegreate/hent-AI). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/natethegreate/hent-AI/blob/master/hent_AI_COLAB_1.ipynb)
