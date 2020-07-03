@@ -114,8 +114,8 @@ Try out deep learning models online on Colab with a single click.
 ## Image generation
 * BigGAN [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)  
-* Style-based GAN architecture (StyleGAN) can be found in [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/parthsuresh/stylegan2-colab/blob/master/StyleGAN2_Google_Colab.ipynb)
-* Style-based GAN architecture (StyleGAN) with anime face generation. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pv8OIFlonha4KeYyY2oEFaK4mG-alaWF#scrollTo=q8VnyjDhiBQY&forceEdit=true&sandboxMode=true)
+* Style-based GAN architecture (StyleGAN2) can be found in [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/parthsuresh/stylegan2-colab/blob/master/StyleGAN2_Google_Colab.ipynb)
+* Style-based GAN architecture (StyleGAN2) with anime face generation. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pv8OIFlonha4KeYyY2oEFaK4mG-alaWF#scrollTo=q8VnyjDhiBQY&forceEdit=true&sandboxMode=true)
 
 ## Image modification
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images.
