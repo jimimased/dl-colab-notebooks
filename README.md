@@ -123,12 +123,14 @@ Try out deep learning models online on Colab with a single click.
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images.
   * deoldify an image [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb)
 * Decensoring Hentai with Deep Neural Networks. The original repo is [deeppomf/DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) and my fork is located in [styler00dollar/Colab-DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.0.ipynb)
+* Deblurring pictures with [TAMU-VITA/DeblurGANv2](https://github.com/TAMU-VITA/DeblurGANv2). My own fork is located in [styler00dollar/Colab-DeblurGANv2](https://github.com/styler00dollar/Colab-DeblurGANv2). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-DeblurGANv2/blob/master/Colab-DeblurGANv2.ipynb)
 
 ## Video modification
 * A Google Colab notebook set up for both conventional and machine learning-based video processing. This repo combines VapourSynth and ESRGAN and is located in [AlphaAtlas/VapourSynthColab](https://github.com/AlphaAtlas/VapourSynthColab). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlphaAtlas/VapourSynthColab/blob/master/VapourSynthColab.ipynb)
 * Generates a talking face video from an image and an audio using [Rudrabha/LipGAN](https://github.com/Rudrabha/LipGAN).
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/LipGAN.ipynb)
 * Deoldify a video. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
+* Decensoring mosaic with [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics). My own colab fork is located in [styler00dollar/Colab-DeepMosaics](https://github.com/styler00dollar/Colab-DeepMosaics). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-DeepMosaics/blob/master/Colab-DeepMosaics.ipynb)
 
 ## Misc
 * Using Mask-RCNN and ESRGAN to detect barsand mosaic and depixelate content with [natethegreate/hent-AI](https://github.com/natethegreate/hent-AI). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/natethegreate/hent-AI/blob/master/hent_AI_COLAB_1.ipynb)
