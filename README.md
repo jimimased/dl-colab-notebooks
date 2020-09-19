@@ -125,6 +125,7 @@ Try out deep learning models online on Colab with a single click.
 * Style-based GAN architecture (StyleGAN2) with anime face generation. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pv8OIFlonha4KeYyY2oEFaK4mG-alaWF#scrollTo=q8VnyjDhiBQY&forceEdit=true&sandboxMode=true)
 
 ## Image modification
+* Restore old photos with [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sharing)
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images.
   * deoldify an image (artistic model) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb)
   * deoldify an image (stable model) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ColorizeTrainingStable.ipynb)
