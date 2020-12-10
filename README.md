@@ -135,6 +135,7 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRAFT.ipynb)
 
 ## Image generation
+* StyleGAN2 with Differentiable Augmentation with [mit-han-lab/data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/zsyzzsoft/5fbb71b9bf9a3217576bebae5de46fc2/data-efficient-gans.ipynb#scrollTo=Re5R6VX8VNgo)  
 * BigGAN [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)  
 * Style-based GAN architecture (StyleGAN2) can be found in [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/parthsuresh/stylegan2-colab/blob/master/StyleGAN2_Google_Colab.ipynb)
