@@ -77,16 +77,6 @@ Try out deep learning models online on Colab with a single click.
 * YOLO v4 with [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12QusaaRj_lUwCGDvQNfICpa7kA7_a2dE)
 * Object detection on Youtube videos using [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) (SSD300).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SSD_Pytorch_Video.ipynb)  
-* Mask RCNN demo using [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN).
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Matterport_Mask_RCNN.ipynb)
-* Mask RCNN demo using [Detectron](https://github.com/facebookresearch/Detectron).
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Detectron_MaskRCNN.ipynb)
-* Detectron2:
-  * Official Detectron2 Mask RCNN demo with [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2).
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
-  * A combination of [chongruo/detectron2-ResNeSt](https://github.com/chongruo/detectron2-ResNeSt) and [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) with my fork [styler00dollar/Colab-Detectron2-with-Original-and-ResNeSt](https://github.com/styler00dollar/Colab-Detectron2-with-Original-and-ResNeSt): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-Detectron2-with-Original-and-ResNeSt/blob/resnest/Colab-Detectron2-(Original%2BResNeSt).ipynb)
-* Mask RCNN demo from [torchvision](https://pytorch.org/docs/stable/torchvision/index.html).
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionMaskRCNN.ipynb)
 * CenterNet (Objects as Points) demo using [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CenterNet_ObjectsAsPoints.ipynb)
 * Official DE⫶TR demo notebook [facebookresearch/detr](https://github.com/facebookresearch/detr).
@@ -110,6 +100,17 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CenterMask.ipynb)
 * Train and test [Tensorflow detection model zoo mask models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) with [TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model). There is also [a tutorial](https://gilberttanner.com/blog/train-a-mask-r-cnn-model-with-the-tensorflow-object-detection-api) dedicated to this repo. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model/blob/master/Tensorflow_Object_Detection_API_Instance_Segmentation_in_Google_Colab.ipynb)
 * Open source semantic segmentation toolbox [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb)
+* Mask RCNN demo using [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Matterport_Mask_RCNN.ipynb)
+* Mask RCNN demo using [Detectron](https://github.com/facebookresearch/Detectron).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Detectron_MaskRCNN.ipynb)
+* Detectron2:
+  * Official Detectron2 Mask RCNN demo with [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
+  * A combination of [chongruo/detectron2-ResNeSt](https://github.com/chongruo/detectron2-ResNeSt) and [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) with my fork [styler00dollar/Colab-Detectron2-with-Original-and-ResNeSt](https://github.com/styler00dollar/Colab-Detectron2-with-Original-and-ResNeSt): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-Detectron2-with-Original-and-ResNeSt/blob/resnest/Colab-Detectron2-(Original%2BResNeSt).ipynb)
+* Mask RCNN demo from [torchvision](https://pytorch.org/docs/stable/torchvision/index.html).
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionMaskRCNN.ipynb)
+* Example usage of [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) with my fork [styler00dollar/Colab-mmdetection](https://github.com/styler00dollar/Colab-mmdetection). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-mmdetection/blob/master/Colab-mmdetection.)
 
 ## Multi Object Tracking
 * Pedestrian tracking using [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) (DeepSORT + YOLOv3).
