@@ -81,8 +81,10 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Matterport_Mask_RCNN.ipynb)
 * Mask RCNN demo using [Detectron](https://github.com/facebookresearch/Detectron).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Detectron_MaskRCNN.ipynb)
-* Official Mask RCNN demo from [Detectron2](https://github.com/facebookresearch/detectron2).
+* Detectron2:
+  * Official Detectron2 Mask RCNN demo with [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
+  * A combination of [chongruo/detectron2-ResNeSt](https://github.com/chongruo/detectron2-ResNeSt) and [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) with my fork [styler00dollar/Colab-Detectron2-with-Original-and-ResNeSt](https://github.com/styler00dollar/Colab-Detectron2-with-Original-and-ResNeSt): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-Detectron2-with-Original-and-ResNeSt/blob/resnest/Colab-Detectron2-(Original%2BResNeSt).ipynb)
 * Mask RCNN demo from [torchvision](https://pytorch.org/docs/stable/torchvision/index.html).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/TorchvisionMaskRCNN.ipynb)
 * CenterNet (Objects as Points) demo using [xingyizhou/CenterNet](https://github.com/xingyizhou/CenterNet).
@@ -107,9 +109,6 @@ Try out deep learning models online on Colab with a single click.
 * Instance segmentation with [CenterMask](https://github.com/youngwanLEE/CenterMask/).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CenterMask.ipynb)
 * Train and test [Tensorflow detection model zoo mask models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) with [TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model). There is also [a tutorial](https://gilberttanner.com/blog/train-a-mask-r-cnn-model-with-the-tensorflow-object-detection-api) dedicated to this repo. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model/blob/master/Tensorflow_Object_Detection_API_Instance_Segmentation_in_Google_Colab.ipynb)
-
-## Object-Detection, Instance Segmentation, Person Keypoint Detection and Panoptic Segmentation
-* Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is possible to train or test Object-Detection, Instance Segmentation, Person Keypoint Detection and Panoptic Segmentation with models that are available [here](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md). [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
 
 ## Multi Object Tracking
 * Pedestrian tracking using [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) (DeepSORT + YOLOv3).
