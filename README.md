@@ -145,6 +145,9 @@ Try out deep learning models online on Colab with a single click.
 * Text-based image generation with SIREN and CLIP. Original notebook from [here](https://twitter.com/advadnoun/status/1348375026697834496?s=19). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FoHdqoqKntliaQKnMoNs3yn5EALqWtvP?usp=sharing)
   * A more compact version can be found inside [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_YOHdORb0Fg1Q7vWZ_KlrtFe9Ur3pmVj?usp=sharing) 
   * My version with small modifications to [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze). Less printing and Google Drive support with [styler00dollar/Colab-deep-daze](https://github.com/styler00dollar/Colab-deep-daze). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-deep-daze/blob/main/Colab-Deep-Daze.ipynb)
+* Text-based image generation with BigGAN and CLIP.
+  * Colab by [@advadnoun](https://twitter.com/advadnoun/status/1351038053033406468). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing#scrollTo=reChJi_vrNI_)
+  * Colab by [@eyaler](https://twitter.com/eyaler/status/1351044325392719876) / [eyaler/clip_biggan](https://github.com/eyaler/clip_biggan). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eyaler/clip_biggan/blob/main/ClipBigGAN.ipynb)
 
 ## Image colorization
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images.
