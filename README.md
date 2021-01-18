@@ -94,7 +94,6 @@ Try out deep learning models online on Colab with a single click.
 * Test and train box-models from [Tensorflow detection model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) with [dctian/DeepPiCar](https://github.com/dctian/DeepPiCar). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dctian/DeepPiCar/blob/master/models/object_detection/code/tensorflow_traffic_sign_detection.ipynb)
 
 ## Segmentation
-* For Mask RCNN, see [Object Detection](https://github.com/tugstugi/dl-colab-notebooks#object-detection).
 * Semantic segmentation trained on [ADE20K](http://groups.csail.mit.edu/vision/datasets/ADE20K/) using [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CSAILVision_SemanticSegmentation.ipynb)
 * [DeepLabV3](https://arxiv.org/abs/1706.05587) from [torchvision](https://pytorch.org/docs/stable/torchvision/index.html).
