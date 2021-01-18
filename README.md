@@ -72,8 +72,9 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/object_detection.ipynb)
 * Cascade RCNN demo using [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/Open_MMLab_Detection_Toolbox_Cascade_RCNN.ipynb)
-* YOLO demo using [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3).
+* YOLO v3 demo using [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/YOLOv3_PyTorch.ipynb)
+* YOLO v4 with [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12QusaaRj_lUwCGDvQNfICpa7kA7_a2dE)
 * Object detection on Youtube videos using [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) (SSD300).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SSD_Pytorch_Video.ipynb)  
 * Mask RCNN demo using [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN).
