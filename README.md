@@ -109,6 +109,7 @@ Try out deep learning models online on Colab with a single click.
 * Instance segmentation with [CenterMask](https://github.com/youngwanLEE/CenterMask/).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CenterMask.ipynb)
 * Train and test [Tensorflow detection model zoo mask models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) with [TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model). There is also [a tutorial](https://gilberttanner.com/blog/train-a-mask-r-cnn-model-with-the-tensorflow-object-detection-api) dedicated to this repo. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-train-custom-Mask-R-CNN-model/blob/master/Tensorflow_Object_Detection_API_Instance_Segmentation_in_Google_Colab.ipynb)
+* Open source semantic segmentation toolbox [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb)
 
 ## Multi Object Tracking
 * Pedestrian tracking using [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) (DeepSORT + YOLOv3).
