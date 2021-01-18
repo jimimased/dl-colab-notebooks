@@ -151,6 +151,7 @@ Try out deep learning models online on Colab with a single click.
   * A modification of that notebook to reduce amount of text/clicks can be found inside [styler00dollar/Colab-BigGANxCLIP](https://github.com/styler00dollar/Colab-BigGANxCLIP). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-BigGANxCLIP/blob/main/Colab-BigGANxCLIP.ipynb)
   * Colab by [@eyaler](https://twitter.com/eyaler/status/1351044325392719876) / [eyaler/clip_biggan](https://github.com/eyaler/clip_biggan). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eyaler/clip_biggan/blob/main/ClipBigGAN.ipynb)
 * Taming Transformers for High-Resolution Image Synthesis with [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CompVis/taming-transformers/blob/master/scripts/taming-transformers.ipynb)
+  * My fork with smaller Colab is located in [styler00dollar/Colab-taming-transformers](https://github.com/styler00dollar/Colab-taming-transformers).  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-taming-transformers/blob/master/Colab-taming-transformers.ipynb)
 
 ## Image colorization
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images.
