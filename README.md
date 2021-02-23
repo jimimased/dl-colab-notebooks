@@ -195,6 +195,7 @@ Try out deep learning models online on Colab with a single click.
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/LipGAN.ipynb)
 * Deoldify a video. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
 * Decensoring mosaic with [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics). My own colab fork is located in [styler00dollar/Colab-DeepMosaics](https://github.com/styler00dollar/Colab-DeepMosaics). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-DeepMosaics/blob/master/Colab-DeepMosaics.ipynb)
+* Inpaint video with [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pb6FjWdwq_q445rG2NP0dubw7LKNUkqc?usp=sharing)
 
 ## Image classification
 * Image classification with [bentrevett/pytorch-image-classification](https://github.com/bentrevett/pytorch-image-classification). 
