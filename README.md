@@ -226,6 +226,7 @@ Try out deep learning models online on Colab with a single click.
 
 ## NLP
 * GPT2 English with [thecoder-001/GPT-2](https://github.com/thecoder-001/GPT-2). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayush06feb/GPT-2/blob/master/GPT2.ipynb)
+  * A small modification by me to fix usage: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WvcIRwiUlV2Wfoaca9O6Fi3ieW_qXujY?usp=sharing)
 * Finetune GPT2 with [ak9250/gpt-2-colab](https://github.com/ak9250/gpt-2-colab/). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ak9250/gpt-2-colab/blob/master/GPT_2.ipynb)
 * Using russian GPT2 and 3 (based on 2) with [sberbank-ai/ru-gpts](https://github.com/sberbank-ai/ru-gpts). 
   * Generation with ruGPT3large: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3_generation_example.ipynb#scrollTo=Y8DYR4d6_-w7)
