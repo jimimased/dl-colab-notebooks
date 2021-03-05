@@ -225,6 +225,7 @@ Try out deep learning models online on Colab with a single click.
 * Tokens-to-Token ViT: Classification of images with transformers and [yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) and my fork [styler00dollar/Colab-T2T-ViT](https://github.com/styler00dollar/Colab-T2T-ViT). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-T2T-ViT/blob/main/Colab-T2T-ViT.ipynb)
 
 ## NLP
+* GPT2 English with [thecoder-001/GPT-2](https://github.com/thecoder-001/GPT-2). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayush06feb/GPT-2/blob/master/GPT2.ipynb)
 * Finetune GPT2 with [ak9250/gpt-2-colab](https://github.com/ak9250/gpt-2-colab/). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ak9250/gpt-2-colab/blob/master/GPT_2.ipynb)
 * Using russian GPT2 and 3 (based on 2) with [sberbank-ai/ru-gpts](https://github.com/sberbank-ai/ru-gpts). 
   * Generation with ruGPT3large: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3_generation_example.ipynb#scrollTo=Y8DYR4d6_-w7)
