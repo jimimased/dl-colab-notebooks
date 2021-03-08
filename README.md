@@ -201,6 +201,8 @@ ptiveGAN](https://github.com/GuardSkill/AdaptiveGAN). My fork is located in [sty
   * Pytorch lightning (more loss, cleaner code, multi-gpu, etc.): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-DFDNet/blob/master/Colab-DFDNet-lightning-train.ipynb)
 * Style transfer with [linjx-ustc1106/TuiGAN-PyTorch](https://github.com/linjx-ustc1106/TuiGAN-PyTorch) and my fork [styler00dollar/Colab-TuiGAN](https://github.com/styler00dollar/Colab-TuiGAN). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-TuiGAN/blob/master/Colab-TuiGAN.ipynb)
 * Face editing with [mit-han-lab/anycost-gan](https://github.com/mit-han-lab/anycost-gan). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mit-han-lab/anycost-gan/blob/master/notebooks/intro_colab.ipynb)
+* Remove background with [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2).
+  * Image: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cTxFq1YuoJ5QPqaTcnskwlHDolnjBkB9?usp=sharing)
 
 ## Video modification
 * A Google Colab notebook set up for both conventional and machine learning-based video processing. This repo combines VapourSynth and ESRGAN and is located in [AlphaAtlas/VapourSynthColab](https://github.com/AlphaAtlas/VapourSynthColab). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlphaAtlas/VapourSynthColab/blob/master/VapourSynthColab.ipynb)
@@ -209,6 +211,8 @@ ptiveGAN](https://github.com/GuardSkill/AdaptiveGAN). My fork is located in [sty
 * Deoldify a video. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
 * Decensoring mosaic with [HypoX64/DeepMosaics](https://github.com/HypoX64/DeepMosaics). My own colab fork is located in [styler00dollar/Colab-DeepMosaics](https://github.com/styler00dollar/Colab-DeepMosaics). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-DeepMosaics/blob/master/Colab-DeepMosaics.ipynb)
 * Inpaint video with [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pb6FjWdwq_q445rG2NP0dubw7LKNUkqc?usp=sharing)
+* Remove background with [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2).
+  * Video: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y9zWfULc8-DDTSsCH-pX6Utw8skiJG5s?usp=sharing)
 
 ## Image classification
 * Image classification with [bentrevett/pytorch-image-classification](https://github.com/bentrevett/pytorch-image-classification). 
