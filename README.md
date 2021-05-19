@@ -215,7 +215,7 @@ ptiveGAN](https://github.com/GuardSkill/AdaptiveGAN). My fork is located in [sty
 * A Residual-Based StyleGAN Encoder via Iterative Refinement with [yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuval-alaluf/restyle-encoder/blob/master/notebooks/inference_playground.ipynb)
 
 ## Video modification
-* A Google Colab notebook set up for both conventional and machine learning-based video processing. This repo combines VapourSynth and ESRGAN and is located in [AlphaAtlas/VapourSynthColab](https://github.com/AlphaAtlas/VapourSynthColab). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlphaAtlas/VapourSynthColab/blob/master/VapourSynthColab.ipynb)
+* A Google Colab notebook set up for both conventional and machine learning-based video processing. This repo combines VapourSynth and ESRGAN and is located in [rlaphoenix/VSGAN](https://github.com/rlaphoenix/VSGAN). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rlaPHOENiX/VSGAN/blob/master/VSGAN.ipynb#scrollTo=DANHrbp1B2Ha)
 * Generates a talking face video from an image and an audio using [Rudrabha/LipGAN](https://github.com/Rudrabha/LipGAN).
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/LipGAN.ipynb)
 * Deoldify a video. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb)
