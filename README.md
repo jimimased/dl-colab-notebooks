@@ -255,6 +255,7 @@ ptiveGAN](https://github.com/GuardSkill/AdaptiveGAN). My fork is located in [sty
 * Using russian GPT2 and 3 (based on 2) with [sberbank-ai/ru-gpts](https://github.com/sberbank-ai/ru-gpts). 
   * Generation with ruGPT3large: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/ruGPT3_generation_example.ipynb#scrollTo=Y8DYR4d6_-w7)
   * Finetuning ruGPT3Small: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/Finetune_ruGPT3Small.ipynb#scrollTo=5vL07XFvsBBU)
+* GPT-J-6B Inference Demo with [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax/). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kingoflolz/mesh-transformer-jax/blob/master/colab_demo.ipynb#scrollTo=pHIJVqHsh4An)
 
 ## Misc
 * Defocus Blur Detection via Depth Distillation with [vinthony/depth-distillation](https://github.com/vinthony/depth-distillation). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a-Un_lZqkEN-mr-SzQh9GLy4qXIJgn0v#scrollTo=Lh2_NGuLaM_c)
