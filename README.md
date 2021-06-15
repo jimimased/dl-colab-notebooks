@@ -184,6 +184,7 @@ ptiveGAN](https://github.com/GuardSkill/AdaptiveGAN). My fork is located in [sty
 * Instance-aware Image Colorization with [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
 ## Image modification
+* Towards Real-World Blind Face Restoration with Generative Facial Prior with [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo)
 * Discovering Interpretable GAN Controls with [harskish/ganspace](https://github.com/harskish/ganspace). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harskish/ganspace/blob/master/notebooks/Ganspace_colab.ipynb)
 * Image to Sketch with [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine).
   * Smooth: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/ArtLine.ipynb)
