@@ -54,6 +54,9 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/RealTimeVoiceCloning.ipynb)
 * Official [ESPnet](https://github.com/espnet/espnet) English/Chinese/Japanese TTS notebook. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/espnet/notebook/blob/master/tts_realtime_demo.ipynb)
 * Official [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron) LJSpeech TTS notebook. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/as-ideas/ForwardTacotron/blob/master/notebooks/synthesize.ipynb)
+* Text to speech with TalkNet.
+  * Inference: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aj6Jk8cpRw7SsN3JSYCv57CrR6s0gYPB#scrollTo=tOXejargIPTq)
+  * Training: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nb8TWjUBJIVg7QtIazMl64PAY4-QznzI)
 
 ## Speech Recognition
 * [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) with LM on Youtube videos.
