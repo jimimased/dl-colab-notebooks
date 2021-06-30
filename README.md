@@ -170,6 +170,9 @@ Try out deep learning models online on Colab with a single click.
 * Using the VAE from [openai/DALL-E](https://github.com/openai/DALL-E) and combining it with [openai/CLIP](https://github.com/openai/CLIP). [Colab by @advadnoun](https://twitter.com/advadnoun/status/1364822183751471109). (Warning: This is not real DALLE-E, it just uses the official VAE) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q-TbYvASMPRMXCOQjkxxf72CXYjR_8Vp?usp=sharing#scrollTo=EbCH111HrTjw)
 * CLIP + FFT with [eps696/aphantasia](https://github.com/eps696/aphantasia). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eps696/aphantasia/blob/master/Aphantasia.ipynb)
 * VQGAN + CLIP by [Katherine Crowson](https://github.com/crowsonkb). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15UwYDsnNeldJFHJ9NdgYBYeo6xPmSelP#scrollTo=wSfISAhyPmyp)
+* Generate textures with [Self-Organising Textures](https://distill.pub/selforg/2021/textures/). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_pytorch.ipynb)
+* Fine-tuning StyleGAN2 for Cartoon Face Generation with [happy-jihye/Cartoon-StyleGan2](https://github.com/happy-jihye/Cartoon-StyleGan2). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/happy-jihye/Cartoon-StyleGan2/blob/main/Cartoon_StyleGAN2.ipynb#scrollTo=xi1rAtZpmify)
+* Zero-Shot non-adversarial domain adaptation of pre-trained generators with [rinongal/StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb#scrollTo=AcSXQ3AbPrqh)
 
 ## Image colorization
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images.
@@ -184,6 +187,7 @@ ptiveGAN](https://github.com/GuardSkill/AdaptiveGAN). My fork is located in [sty
 * Instance-aware Image Colorization with [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
 ## Image modification
+* Modify images with [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mayukhdeb/torch-dreams-notebooks/blob/main/docs_notebooks/hello_torch_dreams.ipynb#scrollTo=YWiUZztmPqXc)
 * Towards Real-World Blind Face Restoration with Generative Facial Prior with [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo)
 * Discovering Interpretable GAN Controls with [harskish/ganspace](https://github.com/harskish/ganspace). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harskish/ganspace/blob/master/notebooks/Ganspace_colab.ipynb)
 * Image to Sketch with [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine).
