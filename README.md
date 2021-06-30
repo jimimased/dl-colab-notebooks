@@ -191,6 +191,7 @@ ptiveGAN](https://github.com/GuardSkill/AdaptiveGAN). My fork is located in [sty
 
 ## Image modification
 * Modify images with [Mayukhdeb/torch-dreams](https://github.com/Mayukhdeb/torch-dreams). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mayukhdeb/torch-dreams-notebooks/blob/main/docs_notebooks/hello_torch_dreams.ipynb#scrollTo=YWiUZztmPqXc)
+* GAN Prior Embedded Network for Blind Face Restoration in the Wild with [yangxy/GPEN](https://github.com/yangxy/GPEN). Fork with Colab is in [bycloudai/GPEN-colab](https://github.com/bycloudai/GPEN-colab). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bycloudai/GPEN-colab/blob/main/GPEN.ipynb)
 * Towards Real-World Blind Face Restoration with Generative Facial Prior with [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo)
 * Discovering Interpretable GAN Controls with [harskish/ganspace](https://github.com/harskish/ganspace). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harskish/ganspace/blob/master/notebooks/Ganspace_colab.ipynb)
 * Image to Sketch with [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine).
