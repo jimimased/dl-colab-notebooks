@@ -180,6 +180,7 @@ Try out deep learning models online on Colab with a single click.
    * Text-based image generation with SIREN and CLIP. Original notebook from [here](https://twitter.com/advadnoun/status/1348375026697834496?s=19). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FoHdqoqKntliaQKnMoNs3yn5EALqWtvP?usp=sharing)
      * A more compact version can be found inside [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_YOHdORb0Fg1Q7vWZ_KlrtFe9Ur3pmVj?usp=sharing) 
      * My version with small modifications to [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze). Less printing and Google Drive support with [styler00dollar/Colab-deep-daze](https://github.com/styler00dollar/Colab-deep-daze). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-deep-daze/blob/main/Colab-Deep-Daze.ipynb)
+    * Generates images from text prompts with a CLIP conditioned Decision Transformer by [Katherine Crowson](https://github.com/crowsonkb). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dFV3GCR5kasYiAl8Bl4fBlLOCdCfjufI#scrollTo=juisrBmKPGME)
 
 ## Image colorization
 * [DeOldify](https://github.com/jantic/DeOldify): A Deep Learning based project for colorizing and restoring old images.
