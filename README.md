@@ -140,6 +140,7 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRAFT.ipynb)
 
 ## Image generation
+* Generate images from a text prompt with [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/dev/inference/inference_pipeline.ipynb)
 * Closed-Form Factorization of Latent Semantics in GANs with [genforce/sefa](https://github.com/genforce/sefa). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/genforce/sefa/blob/master/docs/SeFa.ipynb)
 * Generate textures with [Self-Organising Textures](https://distill.pub/selforg/2021/textures/). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_pytorch.ipynb)
 * Zero-Shot non-adversarial domain adaptation of pre-trained generators with [rinongal/StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rinongal/stylegan-nada/blob/main/stylegan_nada.ipynb#scrollTo=AcSXQ3AbPrqh)
