@@ -256,6 +256,7 @@ Try out deep learning models online on Colab with a single click.
   * Video: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y9zWfULc8-DDTSsCH-pX6Utw8skiJG5s?usp=sharing)
 
 ## Image classification
+* An end-to-end framework for anime character recognition and tagging with [arkel23/animesion](https://github.com/arkel23/animesion). Original Colab by hj is [here](https://colab.research.google.com/drive/1yLqsqlCmIyQRAt0KD17eEDmojeavekRl). My fork is located in [styler00dollar/Colab-animesion](https://github.com/styler00dollar/Colab-animesion). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-animesion/blob/main/Colab-animesion.ipynb)
 * A combination of a lot of discriminator networks and loss functions for image classification with [styler00dollar/Colab-image-classification](https://github.com/styler00dollar/Colab-image-classification/tree/local). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-image-classification/blob/local/Colab-image-classification-local.ipynb)
 * Image classification with [bentrevett/pytorch-image-classification](https://github.com/bentrevett/pytorch-image-classification). 
   * Multilayer Perceptron: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/1_mlp.ipynb)
