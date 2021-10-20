@@ -1,6 +1,7 @@
 Try out deep learning models online on Colab with a single click.
 
 ## Image Super-Resolution
+* SwinIR: Image Restoration Using Swin Transformer with [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/JingyunLiang/a5e3e54bc9ef8d7bf594f6fee8208533/swinir-demo-on-real-world-image-sr.ipynb)
 * Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN). A combination of [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN) and [ata4/esrgan-launcher](https://github.com/ata4/esrgan-launcher). 
   * My colab fork is located in [styler00dollar/Colab-ESRGAN](https://github.com/styler00dollar/Colab-ESRGAN). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-ESRGAN/blob/master/Colab-ESRGAN.ipynb)
   * Alternative with [efonte/ESRGAN](https://github.com/efonte/ESRGAN). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/efonte/colab-notebooks/blob/master/ESRGAN.ipynb)
