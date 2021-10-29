@@ -215,6 +215,9 @@ Try out deep learning models online on Colab with a single click.
 * Instance-aware Image Colorization with [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
 ## Image modification
+* Image-Based CLIP-Guided Essence Transfer with [hila-chefer/targetclip](https://github.com/hila-chefer/targetclip). 
+  * TargetClip: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hila-chefer/TargetCLIP/blob/main/TargetCLIP_CLIP_guided_image_essence_transfer.ipynb)
+  * TargetClip + e4e: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hila-chefer/TargetCLIP/blob/main/TargetCLIP%2Be4e.ipynb)
 * Modidy images with e4e + StyleCLIP with [bycloudai/StyleCLIP-e4e-colab](https://github.com/bycloudai/StyleCLIP-e4e-colab).
     * My own version with less boxes and text ([Colab-e4e-StyleCLIPglobal](https://github.com/styler00dollar/Colab-e4e-StyleCLIPglobal)): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/styler00dollar/Colab-e4e-StyleCLIPglobal/blob/main/Colab-e4e%2BStyleCLIPglobal.ipynb)
     * Original Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bycloudai/StyleCLIP-e4e-colab/blob/main/notebooks/e4e%2BStyleCLIPglobal.ipynb)
