@@ -215,6 +215,7 @@ Try out deep learning models online on Colab with a single click.
 * Instance-aware Image Colorization with [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
 ## Image modification
+* StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN with [mchong6/SOAT](https://github.com/mchong6/SOAT). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mchong6/SOAT/blob/main/infinity.ipynb)
 * Image-Based CLIP-Guided Essence Transfer with [hila-chefer/targetclip](https://github.com/hila-chefer/targetclip). 
   * TargetClip: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hila-chefer/TargetCLIP/blob/main/TargetCLIP_CLIP_guided_image_essence_transfer.ipynb)
   * TargetClip + e4e: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hila-chefer/TargetCLIP/blob/main/TargetCLIP%2Be4e.ipynb)
