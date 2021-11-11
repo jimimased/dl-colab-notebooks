@@ -159,7 +159,10 @@ Try out deep learning models online on Colab with a single click.
 * Scene text detection using [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRAFT.ipynb)
 
-## Image generation
+## Image 
+* Generative Art Using Neural Visual Grammars and Dual Encoders with [deepmind/arnheim](https://github.com/deepmind/arnheim).
+  * 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/arnheim/blob/master/arnheim_1.ipynb)
+  * 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/arnheim/blob/master/arnheim_2.ipynb)
 * Generate images from russian texts with [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wGE-046et27oHvNlBNPH07qrEQNE04PQ?usp=sharing#scrollTo=DFpu82HiSB7u)
   * With automatic google ENG->RUS translation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fbO6YqtzHAHemY2roWQnXvKkdidNQKO?usp=sharing)
 * Generate images from a text prompt with [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/dev/inference/inference_pipeline.ipynb)
