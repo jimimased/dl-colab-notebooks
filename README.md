@@ -160,6 +160,8 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRAFT.ipynb)
 
 ## Image generation
+* Generate images from russian texts with [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wGE-046et27oHvNlBNPH07qrEQNE04PQ?usp=sharing#scrollTo=DFpu82HiSB7u)
+  * With automatic google ENG->RUS translation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fbO6YqtzHAHemY2roWQnXvKkdidNQKO?usp=sharing)
 * Generate images from a text prompt with [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/dev/inference/inference_pipeline.ipynb)
 * Closed-Form Factorization of Latent Semantics in GANs with [genforce/sefa](https://github.com/genforce/sefa). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/genforce/sefa/blob/master/docs/SeFa.ipynb)
 * Generate textures with [Self-Organising Textures](https://distill.pub/selforg/2021/textures/). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/texture_nca_pytorch.ipynb)
@@ -220,8 +222,6 @@ Try out deep learning models online on Colab with a single click.
 
 ## Image modification
 * Cartoonize faces with [bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jCqcKekdtKzW7cxiw_bjbbfLsPh-dEds?usp=sharing)
-* Generate images from russian texts with [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wGE-046et27oHvNlBNPH07qrEQNE04PQ?usp=sharing#scrollTo=DFpu82HiSB7u)
-  * With automatic google ENG->RUS translation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fbO6YqtzHAHemY2roWQnXvKkdidNQKO?usp=sharing)
 * StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN with [mchong6/SOAT](https://github.com/mchong6/SOAT). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mchong6/SOAT/blob/main/infinity.ipynb)
 * Image-Based CLIP-Guided Essence Transfer with [hila-chefer/targetclip](https://github.com/hila-chefer/targetclip). 
   * TargetClip: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hila-chefer/TargetCLIP/blob/main/TargetCLIP_CLIP_guided_image_essence_transfer.ipynb)
