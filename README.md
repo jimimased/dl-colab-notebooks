@@ -159,7 +159,7 @@ Try out deep learning models online on Colab with a single click.
 * Scene text detection using [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRAFT.ipynb)
 
-## Image 
+## Image generation
 * Generative Art Using Neural Visual Grammars and Dual Encoders with [deepmind/arnheim](https://github.com/deepmind/arnheim).
   * 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/arnheim/blob/master/arnheim_1.ipynb)
   * 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/arnheim/blob/master/arnheim_2.ipynb)
@@ -315,6 +315,7 @@ Try out deep learning models online on Colab with a single click.
 * GPT-J-6B Inference Demo with [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax/). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kingoflolz/mesh-transformer-jax/blob/master/colab_demo.ipynb#scrollTo=pHIJVqHsh4An)
 
 ## Misc
+* Anime Face Detector using mmdet and mmpose with [hysts/anime-face-detector](https://github.com/hysts/anime-face-detector). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hysts/anime-face-detector/blob/main/demo.ipynb)
 * Image Caption Generation Demo with [dzryk/antarctic-captions](https://github.com/dzryk/antarctic-captions). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FwGEVKXvmpeMvAYqGr4z7Nt3llaZz-F8)
 * Defocus Blur Detection via Depth Distillation with [vinthony/depth-distillation](https://github.com/vinthony/depth-distillation). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a-Un_lZqkEN-mr-SzQh9GLy4qXIJgn0v#scrollTo=Lh2_NGuLaM_c)
 * Generate a human 3d model from a 2d picture with [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt?usp=sharing)
