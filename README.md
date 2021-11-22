@@ -1,6 +1,7 @@
 Try out deep learning models online on Colab with a single click.
 
 ## Image Super-Resolution
+* Mutual Affine Network for Spatially Variant Kernel Estimation in Blind Image Super-Resolution with [JingyunLiang/MANet](https://github.com/JingyunLiang/MANet). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/JingyunLiang/4ed2524d6e08343710ee408a4d997e1c/manet-demo-on-spatially-variant-kernel-estimation.ipynb) 
 * Image Super-Resolution via Iterative Refinement with [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G1txPI1GKueKH0cSi_DgQFKwfyJOXlhY?usp=sharing)
 * SwinIR: Image Restoration Using Swin Transformer with [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/JingyunLiang/a5e3e54bc9ef8d7bf594f6fee8208533/swinir-demo-on-real-world-image-sr.ipynb)
 * Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN). A combination of [xinntao/ESRGAN](https://github.com/xinntao/ESRGAN) and [ata4/esrgan-launcher](https://github.com/ata4/esrgan-launcher). 
