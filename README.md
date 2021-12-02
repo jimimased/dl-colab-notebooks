@@ -226,6 +226,9 @@ Try out deep learning models online on Colab with a single click.
 * Instance-aware Image Colorization with [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
 ## Image modification
+* StyleGAN Inversion with HyperNetworks for Real Image Editing with [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle).
+  * Inference: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuval-alaluf/hyperstyle/blob/master/notebooks/inference_playground.ipynb)
+  * Animation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuval-alaluf/hyperstyle/blob/master/notebooks/animations_playground.ipynb)
 * Cartoonize faces with [bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jCqcKekdtKzW7cxiw_bjbbfLsPh-dEds?usp=sharing)
 * StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN with [mchong6/SOAT](https://github.com/mchong6/SOAT). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mchong6/SOAT/blob/main/infinity.ipynb)
 * Image-Based CLIP-Guided Essence Transfer with [hila-chefer/targetclip](https://github.com/hila-chefer/targetclip). 
