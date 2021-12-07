@@ -227,6 +227,7 @@ Try out deep learning models online on Colab with a single click.
 * Instance-aware Image Colorization with [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
 ## Image modification
+* Image Style Transfer with a Single Text Condition with [paper11667/clipstyler](https://github.com/paper11667/clipstyler). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dg8PXi-TVtzdpbaoI7ty72SSY7xdBgwo?usp=sharing)
 * StyleGAN Inversion with HyperNetworks for Real Image Editing with [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle).
   * Inference: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuval-alaluf/hyperstyle/blob/master/notebooks/inference_playground.ipynb)
   * Animation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuval-alaluf/hyperstyle/blob/master/notebooks/animations_playground.ipynb)
