@@ -323,6 +323,7 @@ Try out deep learning models online on Colab with a single click.
 * GPT-J-6B Inference Demo with [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax/). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kingoflolz/mesh-transformer-jax/blob/master/colab_demo.ipynb#scrollTo=pHIJVqHsh4An)
 
 ## Misc
+* Using CLIP to assosiate pokemon game characteristics with images with CLIPokemon by [@ai_curio](https://twitter.com/ai_curio/status/1456357515986300952). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KX63ZcQHF_pKlh4aKQwgEaZe7UZrfGIw)
 * Simple image captioning model with [rmokady/clip_prefix_caption](https://github.com/rmokady/clip_prefix_caption). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tuoAC5F4sC7qid56Z0ap-stR3rwdk0ZV?usp=sharing)
 * Anime Face Detector using mmdet and mmpose with [hysts/anime-face-detector](https://github.com/hysts/anime-face-detector). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hysts/anime-face-detector/blob/main/demo.ipynb)
 * Image Caption Generation Demo with [dzryk/antarctic-captions](https://github.com/dzryk/antarctic-captions). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FwGEVKXvmpeMvAYqGr4z7Nt3llaZz-F8)
