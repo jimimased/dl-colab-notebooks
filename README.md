@@ -162,6 +162,7 @@ Try out deep learning models online on Colab with a single click.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/CRAFT.ipynb)
 
 ## Image generation
+* ruDALL-E fine tuning with "Looking Glass v1.1" by Sber AI and [ai_curio](https://twitter.com/ai_curio). More credits in the notebook. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G#scrollTo=y-s9LfFBSyty)
 * Generative Art Using Neural Visual Grammars and Dual Encoders with [deepmind/arnheim](https://github.com/deepmind/arnheim).
   * 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/arnheim/blob/master/arnheim_1.ipynb)
   * 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/arnheim/blob/master/arnheim_2.ipynb)
